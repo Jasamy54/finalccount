@@ -3,7 +3,7 @@ import style from './App.css';
 
 function App() {
   const app_id="a83deedc";
-  const app_key="18dafc7d63cebb95ee6d1392e2c887d9";
+  const app_key="x";
   
   const [dishes, setDishes] = useState([]);
   const [search, setSearch] = useState(['']);
